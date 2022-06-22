@@ -4,4 +4,8 @@
 
 | 목록 | URL |
 | ------ | ------ |
-| RXSwift의 개념 | https://github.com/ehrldyd15/Swift_Async/wiki/RXSwift |
+| Auth 2.0 | https://github.com/ehrldyd15/Swift_Async/wiki/RXSwift |
+
+
+
+https://ios-development.tistory.com/65?category=894545
