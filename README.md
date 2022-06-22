@@ -6,6 +6,3 @@
 | ------ | ------ |
 | Auth 2.0 | https://github.com/ehrldyd15/Fundamental_Skills/wiki/Auth-2.0 |
 
-
-
-https://ios-development.tistory.com/65?category=894545
