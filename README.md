@@ -4,7 +4,7 @@
 
 | 목록 | URL |
 | ------ | ------ |
-| Auth 2.0 | https://github.com/ehrldyd15/Swift_Async/wiki/RXSwift |
+| Auth 2.0 | https://github.com/ehrldyd15/Fundamental_Skills/wiki/Auth-2.0 |
 
 
 
