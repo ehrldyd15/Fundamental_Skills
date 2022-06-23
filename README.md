@@ -4,5 +4,5 @@
 
 | 목록 | URL |
 | ------ | ------ |
-| Auth 2.0 | https://github.com/ehrldyd15/Fundamental_Skills/wiki/Auth-2.0 |
+| OAuth 2.0 | https://github.com/ehrldyd15/Fundamental_Skills/wiki/OAuth-2.0 |
 
