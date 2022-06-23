@@ -6,3 +6,4 @@
 | ------ | ------ |
 | OAuth 2.0 | https://github.com/ehrldyd15/Fundamental_Skills/wiki/OAuth-2.0 |
 | Access Token & Refresh Token | https://github.com/ehrldyd15/Fundamental_Skills/wiki/Access-Token-&-Refresh-Token |
+| 세션/쿠키, JWT | https://github.com/ehrldyd15/Fundamental_Skills/wiki/Access-Token-&-Refresh-Token |
