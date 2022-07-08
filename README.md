@@ -8,5 +8,5 @@
 | 인증 1 | https://github.com/ehrldyd15/Fundamental_Skills/wiki/%EC%9D%B8%EC%A6%9D-1 |
 | 인증 2 | https://github.com/ehrldyd15/Fundamental_Skills/wiki/%EC%9D%B8%EC%A6%9D-2 |
 | 인증 3 | https://github.com/ehrldyd15/Fundamental_Skills/wiki/%EC%9D%B8%EC%A6%9D-3 |
-| COW | https://github.com/ehrldyd15/Fundamental_Skills/wiki/%EC%9D%B8%EC%A6%9D-3 |
+| COW | https://github.com/ehrldyd15/Fundamental_Skills/wiki/COW |
 
