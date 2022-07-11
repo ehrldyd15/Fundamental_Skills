@@ -9,4 +9,4 @@
 | 인증 2 | https://github.com/ehrldyd15/Fundamental_Skills/wiki/%EC%9D%B8%EC%A6%9D-2 |
 | 인증 3 | https://github.com/ehrldyd15/Fundamental_Skills/wiki/%EC%9D%B8%EC%A6%9D-3 |
 | COW | https://github.com/ehrldyd15/Fundamental_Skills/wiki/COW |
-
+| 단방향 연결 리스트 (LinkedList) | https://github.com/ehrldyd15/Fundamental_Skills/wiki/COW |
