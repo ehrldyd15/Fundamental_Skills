@@ -11,3 +11,4 @@
 | COW | https://github.com/ehrldyd15/Fundamental_Skills/wiki/COW |
 | Queue | https://github.com/ehrldyd15/Fundamental_Skills/wiki/Queue |
 | Stack | https://github.com/ehrldyd15/Fundamental_Skills/wiki/Stack|
+| 단방향 연결 리스트(LinkedList) | https://github.com/ehrldyd15/Fundamental_Skills/wiki/Stack|
