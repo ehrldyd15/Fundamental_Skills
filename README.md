@@ -4,7 +4,7 @@
 
 | 목록 | URL |
 | ------ | ------ |
-| URI와 URL | https://github.com/ehrldyd15/Fundamental_Skills/wiki/OAuth-2.0 |
+| URI와 URL | https://github.com/ehrldyd15/Fundamental_Skills/wiki/URI%EC%99%80-URL |
 | OAuth 2.0 | https://github.com/ehrldyd15/Fundamental_Skills/wiki/OAuth-2.0 |
 | 인증 1 | https://github.com/ehrldyd15/Fundamental_Skills/wiki/%EC%9D%B8%EC%A6%9D-1 |
 | 인증 2 | https://github.com/ehrldyd15/Fundamental_Skills/wiki/%EC%9D%B8%EC%A6%9D-2 |
