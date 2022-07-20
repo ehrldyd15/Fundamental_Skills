@@ -15,5 +15,3 @@
 | 단방향 연결 리스트(LinkedList) | https://github.com/ehrldyd15/Fundamental_Skills/wiki/%EB%8B%A8%EB%B0%A9%ED%96%A5-%EC%97%B0%EA%B2%B0-%EB%A6%AC%EC%8A%A4%ED%8A%B8(LinkedList) |
 | 양방향 연결 리스트(Doubly LinkedList) | https://github.com/ehrldyd15/Fundamental_Skills/wiki/%EC%96%91%EB%B0%A9%ED%96%A5-%EC%97%B0%EA%B2%B0-%EB%A6%AC%EC%8A%A4%ED%8A%B8(Doubly-LinkedList) |
 
-
-
