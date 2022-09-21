@@ -17,4 +17,6 @@
 | HTTP / HTTPS / RESTful | https://github.com/ehrldyd15/Fundamental_Skills/wiki/HTTP---HTTPS---RESTful |
 | DeepLink | https://medium.com/prnd/딥링크의-모든것-feat-app-link-universal-link-deferred-deeplink-61d6cf63a0a5 |
 | CI / CD | https://github.com/ehrldyd15/Fundamental_Skills/wiki/CI---CD |
+| UDID / UUID | https://github.com/ehrldyd15/Fundamental_Skills/wiki/CI---CD |
+
 
