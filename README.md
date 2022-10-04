@@ -9,6 +9,7 @@
 | URI와 URL | https://github.com/ehrldyd15/Fundamental_Skills/wiki/URI%EC%99%80-URL |
 | HTTP / HTTPS / RESTful | https://github.com/ehrldyd15/Fundamental_Skills/wiki/HTTP---HTTPS---RESTful |
 | APNs (Push Notification 동작방식) | https://github.com/ehrldyd15/Fundamental_Skills/wiki/APNs-(Push-Notification-%EB%8F%99%EC%9E%91%EB%B0%A9%EC%8B%9D) |
+| TLS(SSL) 1. TLS의 암호화 방식 (대칭키, 비대칭키) | https://github.com/ehrldyd15/Fundamental_Skills/wiki/APNs-(Push-Notification-%EB%8F%99%EC%9E%91%EB%B0%A9%EC%8B%9D) |
 
 ### 인증
 
