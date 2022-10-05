@@ -12,7 +12,7 @@
 | TLS(SSL) 1. TLS의 암호화 방식 (대칭키, 비대칭키) | https://github.com/ehrldyd15/Fundamental_Skills/wiki/TLS(SSL)-1.-TLS%EC%9D%98-%EC%95%94%ED%98%B8%ED%99%94-%EB%B0%A9%EC%8B%9D-(%EB%8C%80%EC%B9%AD%ED%82%A4,-%EB%B9%84%EB%8C%80%EC%B9%AD%ED%82%A4) |
 | TLS(SSL) 2. 인증서, CA, SSL 인증서 | https://github.com/ehrldyd15/Fundamental_Skills/wiki/TLS(SSL)-2.-%EC%9D%B8%EC%A6%9D%EC%84%9C,-CA,-SSL-%EC%9D%B8%EC%A6%9D%EC%84%9C |
 | TLS(SSL) 3. Handshake | https://github.com/ehrldyd15/Fundamental_Skills/wiki/TLS(SSL)-3.-Handshake |
-| 도메인(domain) | https://github.com/ehrldyd15/Fundamental_Skills/wiki/TLS(SSL)-3.-Handshake |
+| 도메인(domain) | https://github.com/ehrldyd15/Fundamental_Skills/wiki/%EB%8F%84%EB%A9%94%EC%9D%B8(domain) |
 
 ### 인증
 
